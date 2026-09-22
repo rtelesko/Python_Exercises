@@ -16,10 +16,10 @@ def main():
 # The maximum function returns the maximum
 # of the two numbers it receives as arguments
 def maximum(num1, num2):
-	if num1 > num2:
-	    return num1
-	else:
-	    return num2
+    if num1 > num2:
+        return num1
+    else:
+        return num2
 
 # Call the main function.
 main()
