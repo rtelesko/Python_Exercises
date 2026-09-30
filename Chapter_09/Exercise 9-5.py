@@ -24,7 +24,7 @@ def main():
     # The "sorted" function produces a sorted version of
     # the list of key-value pairs from the "items" method.
     for number, frequency in sorted(number_dict.items()):
-        print(number, frequency, sep='\t')
+        print(number, frequency, sep='\t\t')
          
 
 # Call the main function.
